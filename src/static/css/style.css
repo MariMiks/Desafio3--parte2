@@ -1,0 +1,22 @@
+body {
+   background-image: url("../imagens/fundo.png");
+}
+
+.conteudo {
+   width: 900px;
+   background-color: #fff4f0;
+}
+
+.conteudo h3{
+   color: #828279;
+}
+
+.rodape{
+   text-align: right;
+   font-weight: bold;
+}
+
+.contato{
+   padding: 0;
+   font-weight: bold;
+}
